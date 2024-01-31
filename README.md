@@ -1,2 +1,14 @@
 # MultiModal-SentimentAnalysis
-This GitHub repository hosts the code and resources for a Multi-Modal Sentiment Analysis project. Sentiment analysis is a crucial task in natural language processing, and this project takes a multi-modal approach by combining both text and image data to better understand and classify sentiment.
+
+
+
+## results:
+
+- Baseline
+    - Cat: 65.00%
+        - only_img: 65.75%
+        - only_txt: 58.00%
+    - Add: 65.00%
+EncoderLayer: 63.38%
+
+## How to run?
