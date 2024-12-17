@@ -79,3 +79,8 @@ bash predict.sh
 ```
 
 This script will generate the predictions and output files to the `output/test.txt`
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Muqi1029/MultiModal-SentimentAnalysis&type=Timeline)](https://star-history.com/#Muqi1029/MultiModal-SentimentAnalysis&Timeline)
